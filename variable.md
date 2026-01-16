@@ -5,4 +5,4 @@
   __Data Types__
 
 > Quote of the day.
-- Please visit my [e-commerce] (https://www.google.come)
+- Please visit my [e-commerce] (https://www.google.com)
