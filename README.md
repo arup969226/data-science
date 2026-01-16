@@ -15,5 +15,8 @@
     - matplotlib
 - Big data Processing:
     - Apache Spark
-##### H5
-###### H6
+## TODO List:
+- [X] CODE
+- [] READ
+- [] PLAY
+
