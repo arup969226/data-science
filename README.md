@@ -2,7 +2,9 @@
 ## What is data science?
 ## Data Scientist Tools:
 - Programming Languages: Python and R.
-- Softwares: git, github
+- Softwares:
+    1. git
+    2. github
 - Libraries:
     - NumPy
     - Panda
