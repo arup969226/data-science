@@ -7,7 +7,7 @@
     - NumPy
     - Panda
     - TensorFlow
-    - Seaborn
+     - Seaborn
     - Scikit-Learn
     - ggplot2
     - matplotlib
