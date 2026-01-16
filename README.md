@@ -6,8 +6,8 @@
     1. git
     2. github
 - Libraries:
-    - NumPy
-    - Panda
+    * NumPy
+    + Panda
     - TensorFlow
       - Seaborn
     - Scikit-Learn
