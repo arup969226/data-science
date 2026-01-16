@@ -17,6 +17,6 @@
     - Apache Spark
 ## TODO List:
 - [X] CODE
-- [] READ
-- [] PLAY
+- [] READ 
+- [] PLAY 
 
